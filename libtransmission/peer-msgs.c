@@ -36,7 +36,8 @@
 #include "version.h"
 
 /**
-*add comment in enum**
+*add comment in enum
+*second edit**
 **/
 
 enum
